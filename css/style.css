@@ -1,0 +1,18 @@
+h1 {color: red;
+text-align: center;
+}
+html {
+ 
+  background-image: url(http://www.britishairways.com/assets/images/destinations/components/mainCarousel/maldives/MV-MLE-BEACH-AXIOM-00150235-760x350.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+li1 {font-size: 20px;
+padding: 10px}
+
+li {font-size: 25px;
+line-height: 50px;
+}
+
+a:link {color: #FF0000}  
